@@ -1,0 +1,13 @@
+{
+  "output_container": "mp4",
+  "auto_profile": "balanced",
+  "preserve_metadata": true,
+  "preserve_subtitles": true,
+  "preserve_chapters": true,
+  "overwrite": false,
+  "scaler": "lanczos",
+  "audio_mode": "copy",
+  "validate_output": true,
+  "keep_failed_temp": false,
+  "minimum_free_space_gb": 1.0
+}

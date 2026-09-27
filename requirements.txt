@@ -1,0 +1,2 @@
+# No third-party Python packages required.
+# Runtime dependency: FFmpeg + FFprobe available in PATH.

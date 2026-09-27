@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*.log
+logs/*
+!logs/.gitkeep
+Video/*
+!Video/.gitkeep
+Output/*
+!Output/.gitkeep
+*.processing.*
+.venv/
+venv/
+.env
+.DS_Store
+Thumbs.db
